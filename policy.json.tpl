@@ -8,6 +8,7 @@
 			    "route53:*",
                 "dynamodb:*",
                 "lightsail:*",
+                "amplify:*",
                 "cloudfront:*"
             ],
             "Resource": "*"
